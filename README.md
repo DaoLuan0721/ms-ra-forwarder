@@ -127,3 +127,13 @@ GET /api/text-to-speech?voice=Microsoft+Server+Speech+Text+to+Speech+Voice+(zh-C
 感谢以下组织/个人对本项目的支持
 
 <img width="80" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" />
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=wxxxcxx%2Fms-ra-forwarder&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=wxxxcxx/ms-ra-forwarder&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=wxxxcxx/ms-ra-forwarder&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=wxxxcxx/ms-ra-forwarder&type=date&legend=top-left" />
+ </picture>
+</a>
